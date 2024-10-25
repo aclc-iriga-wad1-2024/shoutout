@@ -19,9 +19,7 @@ The database config and SQL file are inside the [/config](config) folder.
 
 ---
 ### Task Requirements
-#### Complete the Forgot Password or Account Recovery feature.
-
-Develop your project locally; no online server upload is required.
+### Complete the Forgot Password or Account Recovery feature.
 
 For reference, explore the following related demo project
 that showcases similar data flow and required installations:
@@ -30,6 +28,8 @@ that showcases similar data flow and required installations:
 
 You can also explore a full working version of the application at [***shoutout.kulotsystems.com***](https://shoutout.kulotsystems.com)
 or watch this [demo](https://drive.google.com/file/d/1ilPMdtp17SZrohA1MUKb4LJdRXr2pBzD) on localhost.
+
+Develop your project locally; no online server upload is required.
 
 ---
 ### Submission
