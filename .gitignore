@@ -1,0 +1,4 @@
+.idea
+.vscode
+uploads/avatars/*
+!uploads/avatars/no-avatar.jpg
