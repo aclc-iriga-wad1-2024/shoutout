@@ -27,7 +27,7 @@ that showcases similar data flow and required installations:
 - [**Demo on Mercury Mail Server and Thunderbird Email Client**](https://kulotsystems.github.io/randomjokes)
 
 You can also explore a full working version of the application at [***shoutout.kulotsystems.com***](https://shoutout.kulotsystems.com)
-or watch this [***demo***](https://drive.google.com/file/d/1ilPMdtp17SZrohA1MUKb4LJdRXr2pBzD) on localhost.
+*(use a valid email address when signing up)*, or watch this [***demo***](https://drive.google.com/file/d/1ilPMdtp17SZrohA1MUKb4LJdRXr2pBzD) on localhost.
 
 Develop your project locally; no online server upload is required.
 
