@@ -33,6 +33,4 @@ Develop your project locally; no online server upload is required.
 
 ---
 ### Submission
-Please submit your output through a Pull Request.
-
-_Deadline: TBD_
+Please submit your output through a Pull Request on or before ***Saturday, November 16, 2024, at 17:00 UTC+8***.
